@@ -1,0 +1,68 @@
+every letter goes back by the number that the letter before it holds
+if capitol where there is meant to be a lowercase switch value to lowercase and vise verse
+numbers loop back if it goes negative it acts as if it was positive or loops back from z if a "*" is not at the end of the word
+
+a1  b2  c3  d4  e5  f6  g7  h8  i9  j10 k11 l12 m13 n14 o15 p16 q17 r18 s19 t20 u21 v22 w23 x24 y25 z26
+
+A27 B28 C29 D30 E31 F32 G33 H34 I35 J36 K37 L38 M39 N40 O41 P42 Q43 R44 S45 T46 U47 V48 W49 X50 Y51 Z52
+
+1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 0-0
+
+.0 ,0 /0 " "=(carries prev. number) +=+(add the prev. number instead) *(makes numbers act as if looping from z)
+!(makes it so that capitols and lowercase don't switch) #(does the same as ! but only to lowercase)
+@(same as ! but only for capitols) ^(1-9)(adds the number to the word but the number goes below in inverted order)
+&(carry to next version)"eg."(do not translate) -py / ^py / ~ (used simplified python code)
+-(1-10^1000)(the number is a negative (for -py))
+
+hello
+hwyxq
+
+Adam
+Aysf
+
+hello Adam
+hwyxq Jfeh*
+
+enigma
+ei0gfe
+
+e/n/i/g/m/a .e.n.i.g.m.a ,e,n,i,g,m,a
+enigma enigma enigma
+
+hello
+hw^zw^k(3,1)
+
+hwyxq
+hphq0(3,1&, h-^--^-)
+
+
+hmykz
+hello
+
+
+hcg0c -(2)
+jl
+bmlh -(2,4)
+qj
+Bchl -(2,3) -py
+
+hcg0c jl bmlh qj Bchl -(2,9,11,15,16) -py
+
+hello my name is Liam -py
+
+encode5 (8, -3, 7, 0, 3)
+encode3 (3, 10, 12)
+encode5 (12, 2, -13, 12, -8)
+encode3 (-8, 17, 10)
+encode5 (10, 28, -29, -8, 12)
+
+8, -3, 7, 0, 3 -(2)
+3, 10, 12
+2, -13, 12, -8 -(2,4)
+17, 10
+28, -29, -8, 12 -(2,3) -py
+
+(8, -3, 7, 0, 3)
+hcg0c
+(5, 9, -5, -2, 6, -12)
+e h e b f l -py-(3,4,6)
